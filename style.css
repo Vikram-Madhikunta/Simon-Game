@@ -1,0 +1,37 @@
+*{
+    text-align: center;
+}
+
+
+.btn{
+    height: 200px;
+    width: 200px;
+    border: 10px solid black  ;
+    border-radius: 30px;
+    cursor: pointer;
+}
+
+.btn-cont{
+    display: flex;
+    flex-wrap: wrap;
+    width: 460px;
+   margin: auto;
+   gap: 20px;
+
+}
+
+.red{
+    background-color: red;
+}
+
+.purple{
+    background-color: purple;
+}
+
+.blue{
+    background-color: blue;
+}
+
+.yellow{
+    background-color: yellow;
+}
